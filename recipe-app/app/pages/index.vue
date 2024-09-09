@@ -14,7 +14,7 @@ useSeoMeta({
   ogDescription: "Recipes for you to cook!",
   ogImage: "/nuxt-course-hero 2.png",
   ogUrl: `http:localhost:3000`,
-  twitterTitle: "NuxtcNanaWanipes",
+  twitterTitle: "NanaWan",
   twitterDescription: "Recipes for you to cook!",
   twitterImage: "/nuxt-course-hero 2.png",
   twitterCard: "summary",
